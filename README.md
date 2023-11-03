@@ -10,3 +10,6 @@ Tecnologias utilizadas:
 
 -Android
 -Kotlin
+
+![32087c68-7088-4c74-bf03-92d27374ef61](https://github.com/celioalonso/desafio-app-suporte-idiomas/assets/80286922/a3f57a16-ea87-4857-8c2d-9226faa4147b)
+
